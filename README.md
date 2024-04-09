@@ -1,4 +1,4 @@
-#COVID-19 Prediction Machine Learning Project
+##COVID-19 Prediction Machine Learning Project
 
 **Description:**
 This project aims to predict the spread of COVID-19 using machine learning techniques. The COVID-19 pandemic has significantly impacted societies worldwide, and predicting its trajectory can aid in resource allocation, policy-making, and public health interventions. Leveraging data analytics and machine learning, this project endeavors to provide insights into the future spread of the virus based on historical data.
